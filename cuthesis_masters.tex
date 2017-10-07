@@ -1,0 +1,23 @@
+\documentclass[12pt]{report}
+\include{config}
+\include{constants}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\include{pages/abstract}
+\include{pages/acknowledgements}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Body of Thesis goes here.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%To inlcude new chapter add "\include{chapters/chapter-no/chapter-no.tex"
+\include{chapters/chapter1/chapter1}
+\include{chapters/chapter2/chapter2}
+
+%You can edit your citation style by changing the name in \bibliographystyle{plain} --> \bibliographystyle{new style name}
+\bibliographystyle{plain}
+%Add the bibilography file name below
+\bibliography{bibfile}
+
+\end{document}
