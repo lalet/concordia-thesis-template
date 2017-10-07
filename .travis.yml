@@ -15,7 +15,7 @@ deploy:
   file: ./_build/cuthesis.pdf
   skip_cleanup: true
   on:
-    repo: lalet/concordia-thesis-template
-    tags: true
     branch : master
+    tags: true
+    repo: lalet/concordia-thesis-template
     
