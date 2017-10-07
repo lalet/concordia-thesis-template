@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/106060364.svg)](https://zenodo.org/badge/latestdoi/106060364)
 [![Build Status](https://travis-ci.org/lalet/concordia-thesis-template.svg?branch=master)](https://travis-ci.org/lalet/concordia-thesis-template)
 
-###Concordia University LaTeX Template for Master's thesis or PHD thesis.
+## Concordia University LaTeX Template for Master's thesis or PHD thesis.
 -------------------------------------------------------------------------
 
 This is a LaTeX template for Master's thesis or PHD thesis, derived from official template of Concordia University, Montreal, Canada.
