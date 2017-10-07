@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/106060364.svg)](https://zenodo.org/badge/latestdoi/106060364)
 [![Build Status](https://travis-ci.org/lalet/concordia-thesis-template.svg?branch=master)](https://travis-ci.org/lalet/concordia-thesis-template)
 
 ###Concordia University LaTeX Template for Master's thesis or PHD thesis.
