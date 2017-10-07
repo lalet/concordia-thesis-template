@@ -16,5 +16,5 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
-    branch: master
+    all_branches: true
     repo: lalet/concordia-thesis-template
