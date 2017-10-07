@@ -21,6 +21,6 @@ To build pdf, open `cuthesis.tex` in [TexMaker](http://www.xm1math.net/texmaker/
 
 Modify `.gitignore` according to your requirements.
 
-Find the pdf sample at [PDF] (https://github.com/lalet/concordia-thesis-template/releases)
+Find the pdf sample at [PDF](https://github.com/lalet/concordia-thesis-template/releases)
 
 Source : https://github.com/raxityo/concordia-latex-template
