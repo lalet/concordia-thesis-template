@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lalet/concordia-thesis-template.svg?branch=Version.1)](https://travis-ci.org/lalet/concordia-thesis-template)
+[![Build Status](https://travis-ci.org/lalet/concordia-thesis-template.svg?branch=master)](https://travis-ci.org/lalet/concordia-thesis-template)
 
 ###Concordia University LaTeX Template for Master's thesis or PHD thesis.
 -------------------------------------------------------------------------
