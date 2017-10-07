@@ -10,12 +10,12 @@ Steps to get started:
 - If you want to add new packages or define new styles, change them in `config.tex`.
 - Each chapters have their own folders, so you can modify them separately in their own folders.
 
-To build pdf, open `main.tex` in [TexMaker](http://www.xm1math.net/texmaker/) and build it.
+To build pdf, open `cuthesis.tex` in [TexMaker](http://www.xm1math.net/texmaker/) and build it.
 
 ## How to generate the pdf from command line 
 0. Install ```pdflatex``` and ```bibtex```
-1. Compile the document: ```pdflatex cuthesis_masters; pdflatex cuthesis_masters``` (yes, twice).
-2. Generate the bibliography: ```bibtex cuthesis_masters; pdflatex cuthesis_masters``` (yes, once again).
+1. Compile the document: ```pdflatex cuthesis; pdflatex cuthesis``` (yes, twice).
+2. Generate the bibliography: ```bibtex cuthesis; pdflatex cuthesis``` (yes, once again).
 
 Modify `.gitignore` according to your requirements.
 
