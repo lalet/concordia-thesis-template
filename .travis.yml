@@ -4,7 +4,10 @@ before_install:
 script:
 - mkdir _build
 - mkdir _build/out
-- pdflatex cuthesis.tex
+- pdflatex cuthesis
+- bibtex cuthesis
+- pdflatex cuthesis
+- pdflatex cuthesis
 deploy:
   provider: releases
   api_key:
