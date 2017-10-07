@@ -3,11 +3,11 @@ before_install:
   texlive-latex-extra texlive-fonts-extra texlive-latex-recommended dvipng
 script:
 - mkdir _build
-- mkdir _build/out
 - pdflatex cuthesis
 - bibtex cuthesis
 - pdflatex cuthesis
 - pdflatex cuthesis
+- mv cuthesis.pdf _build/cuthesis.pdf
 deploy:
   provider: releases
   api_key:

@@ -5,3 +5,5 @@
 *.log
 *.lot
 *.out
+*.toc
+*_build
